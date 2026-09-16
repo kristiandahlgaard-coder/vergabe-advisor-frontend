@@ -2,6 +2,7 @@
 
 SPA für öffentliche Auftraggeber — Formular + Freigabe-Dashboard
 
+
 ---
 
 ## 📋 Projektstruktur
