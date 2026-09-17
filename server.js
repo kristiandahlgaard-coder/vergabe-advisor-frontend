@@ -26,7 +26,7 @@ app.get('/health', async (req, res) => {
 });
 
 // SEED TEST-USERS
-app.post('/api/seed-test-users', async (req, res) => {
+app.papp.get('/api/seed-test-users', async (req, res) => {
   try {
     const passwordHash = await bcrypt.hash('test123', 12);
     const emails = [
